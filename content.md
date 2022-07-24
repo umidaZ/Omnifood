@@ -61,7 +61,7 @@ Meal 1: Japanese Gyozas
 
 Meal 2: Avocado Salad
 
-- Category: Vegan and Paleo
+- Category:  
 - Calories: 400
 - NutriScore (Registered): 92
 - Average rating: 4.8
